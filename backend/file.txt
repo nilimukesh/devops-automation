@@ -3,3 +3,5 @@ Github
 maven
 soanrqube
 nexus
+infosys
+it field
